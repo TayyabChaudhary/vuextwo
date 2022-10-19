@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/forms/form-elements/input/NewBookingJob.js"],"names":["NewBookingJob"],"mappings":"mJAAA,mEAEe,SAASA,IACtB,OACE","file":"static/js/41.cc471e1f.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nexport default function NewBookingJob() {\r\n  return (\r\n    <div>\r\n      \r\n    </div>\r\n  )\r\n}\r\n"],"sourceRoot":""}
